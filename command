@@ -140,7 +140,7 @@ git remote rm <name> 删除远程仓库
 linux
 
 常用命令
-
+chmod 764 f01
 tar -zcvf 压缩后的文件(后缀名.tar.gz,.tar等) 被压缩文件 压缩
 tar -zxvf 被解压文件(后缀名.tar.gz,.tar等) 解压
 
@@ -152,3 +152,8 @@ ssh/scp
 ssh user@host ssh远程
 scp localpath user@host:remotepath 上传
 scp user@host:remotepath localpath 下载
+
+mongodb
+use dbname
+show collections
+db.collection.remove({})

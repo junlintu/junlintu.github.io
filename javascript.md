@@ -1,7 +1,3 @@
-#javascript高级程序设计——笔记
-
-
-
 ##基本概念
 - **基本数据类型包括Undefined/Null/Boolean/Number和String**
 - **无须指定函数的返回值，实际上，未指定返回值的函数返回的是一个特殊的undefined值**
